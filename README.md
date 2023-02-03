@@ -1,1 +1,1 @@
-# express-typescript-template
+# Express Typescript template
